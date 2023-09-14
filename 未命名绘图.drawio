@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T05:47:19.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="PIPfOT18nidIgkGZaZkv" version="21.0.8" type="github"><diagram id="VSv1m9k_n0EM8rC4xO0A" name="第 1 页">7VpZb+M2EP41ArYPWkiyJduPlo/dAr3QYNHjpaAlWmZDiSpFH+qv36FI3bLjpAmcRQ0kMTUcHvPNx9FwYmO0iE+fOEp3P7IQU8OxwpMxWhqOY9tjCz6kJFcSz5oqQcRJqJVqwQP5F2uhHhftSYizlqJgjAqStoUBSxIciJYMcc6ObbUto+1VUxThnuAhQLQv/Y2EYqekU2dSyz9jEu3KlW1vpnpiVCprS7IdCtmxIRqtjNGCMyZUKz4tMJXglbioceszvdXGOE7ENQMOeZCuI/Lp8U/C11OabxYH1xypWQ6I7rXBerMiLxHAIQCiHxkXOxaxBNFVLfU52ychlstY8FTr/MBYCkIbhH9jIXLtXbQXDEQ7EVPdq9aUC521TYsytucBvmBQyRHEIywu6DmVB4C6mMVY8BzGcUyRIIf2PpDmUFTp1TBDQyP9DNTtAdQ9Ctv1BdoApE38vX/2kiH+UbFvXlDrZALfRQGOL63FJ2EiSqJEKVC81T0bxkPMTY5Css9Up5Oeqr9W9bepnaUoIEmk1KvOgFHGlYxHG/QB2LaQ/e2Pj1P3O6W/hR2aWxQTmqtRJkpTis0szwSOlTqYh2LgiK+NVH3mnnQ7htUfcMQkWl++H9b/lW0YcK1o/3zKI5yo9pfNPhF71V6gBMhSOG1oiTXhCMQPKMmu29OSM/D9c0Z8xvSABQnkOj9hYMTgqAzmMzPMybYBb1acKAmuPa6ciILHqDiSZttlHxzXVXM1G9pbMUnMBsVs6VBXs0ty0qQoZ3uhevUJrskJrUh/KhpvWJgP0njDTnLXFb005UDcmdAKKMqy1ljwlKk2o+c/uzx/w7XhnSIhaD6bFB8wNa3WHCESqOh8xHlrKnvseX/JiLklCUTN81aEL7HCSllGBGE6FNQBrehDYVgNtL2SMuyA+ZbCVo/wEtezcowezSPM3QoNcJ4Ei/X4InhkjBZ8Lwg21mGg2dAEExwI3NhYTdMibIwy+QZAmTzOVvYcfwTF2T0HYkgOL0JxS/HJlJiobgXMwEGpwmNIshTOiJLK0dfZULDptTd/iQLy5XHmoEvTdjqZKR1cgaHN1b+NYU+aCFFIHxhomc54wN6Va/grY+oaq5kxncif1dTwx8Z8WUIB79kCjQGA2iJ4eSUvAk1y3SxoP3gCnmZjnrJIJsEXAtOGdyVgl9pxTzxg21mpDBV94dBiZeTsyVXiUco7OWA7wzvuiMAPkCTIXn0yetkchBSBT5fzuX7+Vd0bdNKsbw22q5+PdQ5ul4n1rpF/e9YbpWxOP2WTpJ0YvjNE2neGnzO5NX7jAfx6sAGi06UxgzDgGT60bWM1MeZTY9pnpEx527BlgrNHvFApzzJhiQx4W0JpR6Tz5GUAWGKQ+xJpyL7oXHfEJAyLe82Qn9qefA1XOR2qWwOusgZcNXorV7mDVJ+ujZldumoiPTQDJ82M1djwfWM2Ko7DXDb6sU4qg5p33fAbn51RxyFVKeJmZ2d2xSU9Ceey2iF5Ld9OJGjj0gYRkOD5782HP+TDR7d8XJ6ancu8Rfdr7ulP3r/dYR80MHYHIC5lV1/T9Qq/MAIbrM/cpOPiccd1qsygRzVrKp2JKp+XEzmdiRQOvYkKGlRm/4dCgnUFNb6t+s21BLJvW8G5l3DuJRzjXsK5l3DuJZx7CedewrmXcO4lnPY1yn13JRz7Yg2nd8N9bwDevoZjD/y3+P9UGZi8u8qAPVBW++ZLA4pmt6oNuK9VG/DerDYAj/XXRpR6/eWb0eor</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-09-14T05:48:19.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="CrYuKd9tugRROaGj6RSH" version="21.0.8" type="github">
+  <diagram id="VSv1m9k_n0EM8rC4xO0A" name="第 1 页">
+    <mxGraphModel dx="1140" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vycpFgiGkZirF8lybCv5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vycpFgiGkZirF8lybCv5-1" target="vycpFgiGkZirF8lybCv5-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vycpFgiGkZirF8lybCv5-1" value="&lt;table style=&quot;width: max-content; text-align: left; border-radius: 2px 2px 0px 0px; border-spacing: 0px; color: rgba(0, 0, 0, 0.85); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); min-width: 100%; table-layout: auto;&quot;&gt;&lt;tbody style=&quot;box-sizing: border-box;&quot; class=&quot;ant-table-tbody&quot;&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; class=&quot;ant-table-row ant-table-row-level-0&quot; data-row-key=&quot;1466_undefined&quot;&gt;&lt;td style=&quot;box-sizing: border-box; position: relative; padding: 16px; overflow-wrap: break-word; border-bottom: 1px solid rgb(240, 240, 240); transition: background 0.3s ease 0s;&quot; class=&quot;ant-table-cell&quot;&gt;&lt;div style=&quot;box-sizing: border-box; flex-flow: wrap; min-width: 0px; display: flex;&quot; class=&quot;ant-row&quot;&gt;&lt;div style=&quot;box-sizing: border-box; position: relative; max-width: 100%; min-height: 1px; flex: 0 0 100%;&quot; class=&quot;ant-col ant-col-24&quot;&gt;待采购&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: border-box; word-break: break-word;&quot; class=&quot;ant-typography&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vycpFgiGkZirF8lybCv5-2" value="已采购" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vycpFgiGkZirF8lybCv5-4" value="采购单流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vycpFgiGkZirF8lybCv5-5" value="发货方仓库&lt;br&gt;收货方仓库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vycpFgiGkZirF8lybCv5-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="vycpFgiGkZirF8lybCv5-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="240" as="sourcePoint" />
+            <mxPoint x="260" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vycpFgiGkZirF8lybCv5-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vycpFgiGkZirF8lybCv5-11" target="vycpFgiGkZirF8lybCv5-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vycpFgiGkZirF8lybCv5-11" value="&lt;table style=&quot;width: max-content; text-align: left; border-radius: 2px 2px 0px 0px; border-spacing: 0px; color: rgba(0, 0, 0, 0.85); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); min-width: 100%; table-layout: auto;&quot;&gt;&lt;tbody style=&quot;box-sizing: border-box;&quot; class=&quot;ant-table-tbody&quot;&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; class=&quot;ant-table-row ant-table-row-level-0&quot; data-row-key=&quot;1466_undefined&quot;&gt;&lt;td style=&quot;box-sizing: border-box; position: relative; padding: 16px; overflow-wrap: break-word; border-bottom: 1px solid rgb(240, 240, 240); transition: background 0.3s ease 0s;&quot; class=&quot;ant-table-cell&quot;&gt;&lt;div style=&quot;box-sizing: border-box; flex-flow: wrap; min-width: 0px; display: flex;&quot; class=&quot;ant-row&quot;&gt;&lt;div style=&quot;box-sizing: border-box; position: relative; max-width: 100%; min-height: 1px; flex: 0 0 100%;&quot; class=&quot;ant-col ant-col-24&quot;&gt;待采购&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: border-box; word-break: break-word;&quot; class=&quot;ant-typography&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vycpFgiGkZirF8lybCv5-12" value="已发货" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vycpFgiGkZirF8lybCv5-13" value="发货方仓库&lt;br&gt;收货方仓库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vycpFgiGkZirF8lybCv5-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="vycpFgiGkZirF8lybCv5-13" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="240" as="sourcePoint" />
+            <mxPoint x="660" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
