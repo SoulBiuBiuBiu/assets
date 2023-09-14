@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T11:12:06.789Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.0.8" etag="W3YrKHTyPSdAmo6k33gs" type="github"><diagram name="第 1 页" id="0u8_kx_yvIRK-UzRivUa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-09-14T11:23:35.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="KJtwpdmUoiGHYz9X-Imc" version="21.0.8" type="github">
+  <diagram name="第 1 页" id="0u8_kx_yvIRK-UzRivUa">
+    <mxGraphModel dx="956" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="490" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JLwjMJk9ZX_UkD8kIUZu-1" target="JLwjMJk9ZX_UkD8kIUZu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-1" value="&lt;div style=&quot;box-sizing: border-box; position: relative; max-width: 100%; min-height: 1px; flex: 0 0 100%; color: rgba(0, 0, 0, 0.85); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(250, 250, 250);&quot; class=&quot;ant-col ant-col-24&quot;&gt;审批中&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JLwjMJk9ZX_UkD8kIUZu-2" target="JLwjMJk9ZX_UkD8kIUZu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-2" value="&lt;div style=&quot;box-sizing: border-box; position: relative; max-width: 100%; min-height: 1px; flex: 0 0 100%; color: rgba(0, 0, 0, 0.85); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(250, 250, 250);&quot; class=&quot;ant-col ant-col-24&quot;&gt;未发货&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-4" value="退货方库存-&amp;gt;退货方预出库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JLwjMJk9ZX_UkD8kIUZu-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="180" as="sourcePoint" />
+            <mxPoint x="190" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JLwjMJk9ZX_UkD8kIUZu-6" target="JLwjMJk9ZX_UkD8kIUZu-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-6" value="&lt;div style=&quot;box-sizing: border-box; position: relative; max-width: 100%; min-height: 1px; flex: 0 0 100%; color: rgba(0, 0, 0, 0.85); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(250, 250, 250);&quot; class=&quot;ant-col ant-col-24&quot;&gt;已发货&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-8" value="退货方预出库-&amp;gt;收货方预入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="320" as="sourcePoint" />
+            <mxPoint x="250" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-11" value="&lt;div style=&quot;box-sizing: border-box; position: relative; max-width: 100%; min-height: 1px; flex: 0 0 100%; color: rgba(0, 0, 0, 0.85); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(250, 250, 250);&quot; class=&quot;ant-col ant-col-24&quot;&gt;&lt;div style=&quot;box-sizing: border-box; position: relative; max-width: 100%; min-height: 1px; flex: 0 0 100%; background-color: rgb(255, 255, 255); padding-left: 5px; padding-right: 5px;&quot; class=&quot;ant-col ant-col-24&quot;&gt;&lt;div style=&quot;box-sizing: border-box; display: inline-flex; align-items: center; gap: 8px;&quot; class=&quot;ant-space ant-space-horizontal ant-space-align-center&quot;&gt;&lt;div style=&quot;box-sizing: border-box;&quot; class=&quot;ant-space-item&quot;&gt;已完成&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; position: relative; max-width: 100%; min-height: 1px; flex: 0 0 100%; background-color: rgb(255, 255, 255); padding-left: 5px; padding-right: 5px;&quot; class=&quot;ant-col ant-col-24&quot;&gt;&lt;div style=&quot;box-sizing: border-box; display: inline-flex; align-items: center; gap: 16px;&quot; class=&quot;ant-space ant-space-horizontal ant-space-align-center&quot;&gt;&lt;div style=&quot;box-sizing: border-box;&quot; class=&quot;ant-space-item&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-13" value="收货方预入库-&amp;gt;收货方库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="420" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JLwjMJk9ZX_UkD8kIUZu-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="449.7" as="sourcePoint" />
+            <mxPoint x="250" y="449.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
