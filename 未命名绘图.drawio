@@ -1,22 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T05:48:19.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="CrYuKd9tugRROaGj6RSH" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T06:22:03.018Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NoBn6fVXSsMpvV9tMsJ0" version="21.0.8" type="github">
   <diagram id="VSv1m9k_n0EM8rC4xO0A" name="第 1 页">
     <mxGraphModel dx="1140" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eOfBSwf11kv4tXOyWirU-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="930" height="500" as="geometry" />
+        </mxCell>
         <mxCell id="vycpFgiGkZirF8lybCv5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vycpFgiGkZirF8lybCv5-1" target="vycpFgiGkZirF8lybCv5-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vycpFgiGkZirF8lybCv5-1" value="&lt;table style=&quot;width: max-content; text-align: left; border-radius: 2px 2px 0px 0px; border-spacing: 0px; color: rgba(0, 0, 0, 0.85); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); min-width: 100%; table-layout: auto;&quot;&gt;&lt;tbody style=&quot;box-sizing: border-box;&quot; class=&quot;ant-table-tbody&quot;&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; class=&quot;ant-table-row ant-table-row-level-0&quot; data-row-key=&quot;1466_undefined&quot;&gt;&lt;td style=&quot;box-sizing: border-box; position: relative; padding: 16px; overflow-wrap: break-word; border-bottom: 1px solid rgb(240, 240, 240); transition: background 0.3s ease 0s;&quot; class=&quot;ant-table-cell&quot;&gt;&lt;div style=&quot;box-sizing: border-box; flex-flow: wrap; min-width: 0px; display: flex;&quot; class=&quot;ant-row&quot;&gt;&lt;div style=&quot;box-sizing: border-box; position: relative; max-width: 100%; min-height: 1px; flex: 0 0 100%;&quot; class=&quot;ant-col ant-col-24&quot;&gt;待采购&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: border-box; word-break: break-word;&quot; class=&quot;ant-typography&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vycpFgiGkZirF8lybCv5-2" target="eOfBSwf11kv4tXOyWirU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vycpFgiGkZirF8lybCv5-2" value="已采购" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vycpFgiGkZirF8lybCv5-4" value="采购单流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="100" width="100" height="30" as="geometry" />
+          <mxGeometry x="30" y="80" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vycpFgiGkZirF8lybCv5-5" value="发货方仓库&lt;br&gt;收货方仓库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vycpFgiGkZirF8lybCv5-5" value="发货方库存-&amp;gt;发货方&lt;br&gt;预出库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vycpFgiGkZirF8lybCv5-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="vycpFgiGkZirF8lybCv5-5" edge="1">
@@ -29,19 +35,67 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vycpFgiGkZirF8lybCv5-11" value="&lt;table style=&quot;width: max-content; text-align: left; border-radius: 2px 2px 0px 0px; border-spacing: 0px; color: rgba(0, 0, 0, 0.85); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255); min-width: 100%; table-layout: auto;&quot;&gt;&lt;tbody style=&quot;box-sizing: border-box;&quot; class=&quot;ant-table-tbody&quot;&gt;&lt;tr style=&quot;box-sizing: border-box;&quot; class=&quot;ant-table-row ant-table-row-level-0&quot; data-row-key=&quot;1466_undefined&quot;&gt;&lt;td style=&quot;box-sizing: border-box; position: relative; padding: 16px; overflow-wrap: break-word; border-bottom: 1px solid rgb(240, 240, 240); transition: background 0.3s ease 0s;&quot; class=&quot;ant-table-cell&quot;&gt;&lt;div style=&quot;box-sizing: border-box; flex-flow: wrap; min-width: 0px; display: flex;&quot; class=&quot;ant-row&quot;&gt;&lt;div style=&quot;box-sizing: border-box; position: relative; max-width: 100%; min-height: 1px; flex: 0 0 100%;&quot; class=&quot;ant-col ant-col-24&quot;&gt;待采购&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: border-box; word-break: break-word;&quot; class=&quot;ant-typography&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vycpFgiGkZirF8lybCv5-12" target="eOfBSwf11kv4tXOyWirU-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vycpFgiGkZirF8lybCv5-12" value="已发货" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vycpFgiGkZirF8lybCv5-13" value="发货方仓库&lt;br&gt;收货方仓库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="vycpFgiGkZirF8lybCv5-13" value="发货方库存-&amp;gt;收货方预入库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vycpFgiGkZirF8lybCv5-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="vycpFgiGkZirF8lybCv5-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="240" as="sourcePoint" />
-            <mxPoint x="660" y="220" as="targetPoint" />
+            <mxPoint x="600" y="240" as="sourcePoint" />
+            <mxPoint x="690" y="220" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eOfBSwf11kv4tXOyWirU-3" target="eOfBSwf11kv4tXOyWirU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-3" value="已发货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-5" value="发货方预出库-&amp;gt;收货方预入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="eOfBSwf11kv4tXOyWirU-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="370" as="sourcePoint" />
+            <mxPoint x="260" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-8" value="已确认收货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-11" value="收货方预入库-&amp;gt;收货方库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="509.62" as="sourcePoint" />
+            <mxPoint x="320" y="509.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-13" value="已确认收货" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-14" value="收货方预入库-&amp;gt;收货方库存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="379.62" as="sourcePoint" />
+            <mxPoint x="750" y="379.62" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-17" value="下单时直接填写发货信息的场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="225" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eOfBSwf11kv4tXOyWirU-18" value="下单时只选择发货方的场景" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="225" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
